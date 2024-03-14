@@ -18,7 +18,7 @@ export default function App() {
     //pegando dados do localsotorage
     const tasksFromLocalStorage = localStorage.getItem("tasksOnLocalStorage");
     if (tasksFromLocalStorage) {
-      return JSON.parse(tasksFromLocalStorage);
+      return JSON.parse("tasksOnLocalStorage");
     }
     return [];
   });
@@ -75,10 +75,7 @@ export default function App() {
       return task.id !== id;
     });
     setTasks(deletingTasks);
-    localStorage.setItem(
-      "tasksFromLocalStorage",
-      JSON.stringify(deletingTasks)
-    );
+    localStorage.setItem("tasksOnLocalStorage", JSON.stringify(deletingTasks));
   }
   return (
     <div>
