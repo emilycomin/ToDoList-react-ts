@@ -2,11 +2,11 @@ import Styles from "./TasksHeader.module.css";
 
 interface tasksHeaderProps {
   tarefasCriadas: number;
-  tarefasConcluidas: number;
+  counterTaskChecked: number;
 }
 export function TasksHeader({
   tarefasCriadas,
-  tarefasConcluidas,
+  counterTaskChecked,
 }: tasksHeaderProps) {
   return (
     // Este é o estilo de cada tarefa.
@@ -18,7 +18,7 @@ export function TasksHeader({
       <div className={Styles.tarefasConcluidas}>
         <p>Concluidas</p>{" "}
         <span>
-          {tarefasCriadas} de {tarefasConcluidas}
+          {counterTaskChecked} de {tarefasCriadas}
         </span>
       </div>
     </div>
