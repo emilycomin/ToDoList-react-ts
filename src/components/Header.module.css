@@ -1,0 +1,12 @@
+.headerContent{
+    background-color: #0d0d0d;
+    height: 200px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.headerContent img{
+    width: 126px;
+    height: 48px;
+}
