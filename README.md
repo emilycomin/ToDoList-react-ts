@@ -1,4 +1,11 @@
 <h1>To Do List </h1> 
+<div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</div>
 
 Essa aplicação simula uma lista de tarefas, onde você pode criar novas tarefas, exclui-lás, marcar como concluidas e todas as tarefas ficarão salvas, se caso sair do navegador. 
 desenvolvido para a entrega da trilha de React da Rocketseat. 
