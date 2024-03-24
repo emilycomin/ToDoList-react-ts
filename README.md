@@ -17,4 +17,6 @@ Essa aplicação simula uma lista de tarefas, onde você pode:
 💾 E tudo ficará salvo! <br>
 
 👩🏼‍🚀🚀 Desenvolvido para a entrega da trilha de React da Rocketseat. <br>
-Veja o projeto rodando 
+
+
+<a href="https://www.figma.com/file/gALCXzLPRex9zTSePHuTxy/ToDo-List-%E2%80%A2-Desafio-React-(Copy)?type=design&node-id=56-96&mode=design&t=GEX0S3RqPUFGMaQ3-0">Figma do projeto</a>
