@@ -1,5 +1,5 @@
 <h1>To Do List </h1> 
-<a href="https://to-do-list-react-ts-lyart.vercel.app/"><img src=""></a> 
+<a href="https://to-do-list-react-ts-lyart.vercel.app/"><img src="https://github.com/emilycomin/ToDoList-react-ts/blob/master/src/assets/Captura%20de%20tela%202024-03-23%20234924.png"></a> 
 
 <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
